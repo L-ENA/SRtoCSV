@@ -1,0 +1,465 @@
+REVMAN_ID,REVIEW_TITLE,PERFBIAS_RISK,PERFBIAS_JUDGEMENT,YEAR
+STD-Akhondzadeh-2008,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Identical appearing tablets were used[comma] effectiveness of this method was not mentioned.,2008
+STD-Buchanan-2008,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2008
+STD-Caroff-2007,Acetylcholinesterase inhibitors for schizophrenia,Unclear Risk,No information available.,2007
+STD-Chouinard-2007,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2007
+STD-Dyer-2008,Acetylcholinesterase inhibitors for schizophrenia,Unclear Risk,No information available.,2008
+STD-Fagerlund-2007,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2007
+STD-Freudenreich-2005,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Identical appearing tablets were used[comma] effectiveness of this method was not mentioned.,2005
+STD-Friedman-2002c,Acetylcholinesterase inhibitors for schizophrenia,Unclear Risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2002
+STD-Keefe-2008a,Acetylcholinesterase inhibitors for schizophrenia,Unclear Risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2008
+STD-Kim-2005b,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2005
+STD-Kohler-2007,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2007
+STD-Lee-2005,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2005
+STD-Nahas-2003,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2003
+STD-Schubert-2006,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2006
+STD-Sharma-2006,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2006
+STD-Tugal-2003,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2003
+STD-Tuma-2003,Acetylcholinesterase inhibitors for schizophrenia,Low risk,Both the participants and investigators were blinded to the intervention. Effectiveness of this method was not mentioned.,2003
+STD-acupoint-cat---Sun-2005,Acupuncture for schizophrenia,High risk,Not used sham acupoint catgut treatment.,2005
+STD-acupoint-cat---Wang-1997,Acupuncture for schizophrenia,Unclear Risk,Not used; sham acupoint catgut treatment.,1997
+STD-acupoint-inj---Pan-2002,Acupuncture for schizophrenia,High risk,Sham acupoint injection not used.,2002
+STD-acupoint-inj---Wang-2000,Acupuncture for schizophrenia,High risk,Sham acupoint injection not used.,2000
+STD-acupoint-inj---Yang-2000,Acupuncture for schizophrenia,High risk,Sham acupoint injection not used.,2000
+STD-EACT---Xue-1987,Acupuncture for schizophrenia,High risk,Author compared two groups and used electrodes with different positions.,1987
+STD-electro---Chen-2006,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,2006
+STD-electro---Chen-2008,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,2008
+STD-electro---Cheng-2009,Acupuncture for schizophrenia,Low risk,Report stated - "blinded to the treatment allocation"; the acupuncturist was "instructed not to communicate with the patients and the clinical investigators"; the participants were "acupuncture-naive patients" and "there was also limited contact between the study participants and restricted conversation between acupuncturist and participants during treatment".,2009
+STD-electro---Cui-2000,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,2000
+STD-electro---Ding-2005,Acupuncture for schizophrenia,High risk,Not used sham electroacupuncture and doctors often told patients (electroacupuncture + antipsychotics group) the importance and treatment mechanism of acupuncture.,2005
+STD-electro---Wang-2005,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,2005
+STD-electro---Xiong-2010,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,2010
+STD-electro---Yao-2006,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,2006
+STD-electro---Zhang-1987,Acupuncture for schizophrenia,High risk,Sham electroacupuncture or any other dummy treatments not used.,1987
+STD-electro---Zhang-1993,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,1993
+STD-electro---Zhang-2001,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,2001
+STD-electro---Zhou-1997,Acupuncture for schizophrenia,High risk,Author compared two groups and did not use sham electroacupuncture.,1997
+STD-laser---Liu-1986,Acupuncture for schizophrenia,High risk,Author reported that three groups all used laser irradiation (two real and one sham) and one group combined with chlorpromazine but did not reported the other two groups used dummy drug.,1986
+STD-laser---Ma-1999,Acupuncture for schizophrenia,Unclear Risk,Sham laser irradiation not used.,1999
+STD-laser---Zhang-1991,Acupuncture for schizophrenia,High risk,Though author compared 3 groups and used sham laser acupuncture did not use dummy medications.,1991
+STD-traditional---Bouhlel-2011,Acupuncture for schizophrenia,Low risk,Reports stated - "double-blind". The author reported that both the patient and the psychiatrist did not know if it was a true traditional acupuncture treatment or a placebo (sham acupuncture).,2011
+STD-traditional---Liu-2010,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,2010
+STD-traditional---Luo-2006,Acupuncture for schizophrenia,Unclear Risk,Report stated - "using single-blind method". No further details.,2006
+STD-traditional---Ma-2008,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,2008
+STD-traditional---Tang-2005,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,2005
+STD-traditional---Wang-2006,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,2006
+STD-traditional---Xu-2004,Acupuncture for schizophrenia,High risk,Sham electroacupuncture not used.,2004
+STD-traditional---Zhao-2005a,Acupuncture for schizophrenia,High risk,Used placebo but did not use sham acupuncture.,2005
+STD-traditional---Zhao-2005b,Acupuncture for schizophrenia,High risk,Used placebo but did not use sham acupuncture.,2005
+STD-Henderson-2004-a,Advance treatment directives for people with severe mental illness,Low risk,One investigator collected follow-up data and was blinded to treatment group. Double-blinding not possible due to nature of intervention.,2004
+STD-Papageorgiou-2002,Advance treatment directives for people with severe mental illness,High risk,"It was impossible to mask the research assistants to the patients' allocation as they were required to assist patients to make a directive in those allocated to the intervention group. However[comma] systematic bias was unlikely as the primary outcome concerned compulsory hospital admission and was not based on any later assessment by the researcher." Bias possible for secondary outcome measures.,2002
+STD-Boyer-1995,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1995
+STD-Carrière-2000,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,2000
+STD-Colonna-2000,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,2000
+STD-Costa-e-Silva-1989,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1989
+STD-Danion-1999,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1999
+STD-Delcker-1990,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1990
+STD-Klein-1985,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1985
+STD-Loo-1997,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1997
+STD-Möller-1997,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1997
+STD-Paillère-Martinot-95,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1995
+STD-Peuskens-1999,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1999
+STD-Pichot-1988a,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1988
+STD-Pichot-1988b,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1988
+STD-Puech-1998,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1998
+STD-Rüther-1988,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1988
+STD-Saletu-1994,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1994
+STD-Speller-1997,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1997
+STD-Wetzel-1998,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1998
+STD-Ziegler-1989,Amisulpride for schizophrenia,Information could not be retrieved,Information could not be retrieved,1989
+STD-Bai-2005,Amisulpride versus other atypical antipsychotics for schizophrenia,Unclear Risk,Single[comma] no further details. Whether blinding was successful has not been examined[comma] but both compounds differ quite substantially in side effects. This can be a problem for blinding.,2005
+STD-Hwang-2003,Amisulpride versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] identical capsules. Whether blinding was successful has not been examined[comma] but both compounds differ in side effects. This may be a problem for blinding.,2003
+STD-Lecrubier-2006,Amisulpride versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] no further details. Whether blinding was successful has not been examined[comma] but both compounds differ quite substantially in side effects. This can be a problem for blinding.,2006
+STD-Mortimer-2004,Amisulpride versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] identical capsules ("to permit dose adjustment whilst maintaining the double-blind[comma] blister packs corresponding to a low and a high dosage were provided"). Whether blinding was successful has not been examined[comma] but both compounds differ quite substantially in side effects. This can be a problem for blinding.,2005
+STD-Möller-2005,Amisulpride versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] no further details. Whether blinding was successful has not been examined[comma] but both compounds differ in side effects. This may be a problem for blinding.,2004
+STD-Olie-2006,Amisulpride versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] no further details. Whether blinding was successful has not been examined[comma] but both compounds differ quite substantially in side effects. This can be a problem for blinding.,2006
+STD-Peuskens-1999,Amisulpride versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] identical capsules. Whether blinding was successful has not been examined[comma] but both compounds in side effects. This may be a problem for blinding.,1999
+STD-Sechter-2002,Amisulpride versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] no further details. Whether blinding was successful has not been examined[comma] but both compounds differ in side effects. This may be a problem for blinding.,2002
+STD-Vanelle-2006,Amisulpride versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] no further details. Whether blinding was successful has not been examined[comma] but both compounds differ quite substantially in side effects. This can be a problem for blinding.,2006
+STD-Wagner-2005,Amisulpride versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] no further details. Whether blinding was successful has not been examined[comma] but both compounds differ quite substantially in side effects. This can be a problem for blinding.,2005
+STD-Mathew-1989,Amphetamines for schizophrenia,Information could not be retrieved,Information could not be retrieved,1989
+STD-Modell-1965,Amphetamines for schizophrenia,Information could not be retrieved,Information could not be retrieved,1965
+STD-Wolkin-1987,Amphetamines for schizophrenia,Information could not be retrieved,Information could not be retrieved,1987
+STD-Wolkin-1994,Amphetamines for schizophrenia,Information could not be retrieved,Information could not be retrieved,1994
+STD-Bucci-1971,Anticholinergic medication for antipsychotic-induced tardive dyskinesia,High risk,Blinding of participants and personnel not reported.,1971
+STD-Greil-1984,Anticholinergic medication for antipsychotic-induced tardive dyskinesia,Low risk,"double-blind" "investigators were not informed about the study design".,1984
+STD-Becker-1983,Antidepressants for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1983
+STD-Dufresne-1988,Antidepressants for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1988
+STD-Hogarty-1995,Antidepressants for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1995
+STD-Jasovic-1996,Antidepressants for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1996
+STD-Johnson-1981,Antidepressants for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1981
+STD-Kramer-1989,Antidepressants for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1989
+STD-Kurland-1981,Antidepressants for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1981
+STD-Mulholland-1997,Antidepressants for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1997
+STD-Prusoff-1979,Antidepressants for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1979
+STD-Singh-1978,Antidepressants for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1978
+STD-Siris-1987,Antidepressants for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1987
+STD-Collins-1967,Antidepressants for the negative symptoms of schizophrenia,Information could not be retrieved,Information could not be retrieved,1967
+STD-Hayashi-1997,Antidepressants for the negative symptoms of schizophrenia,Information could not be retrieved,Information could not be retrieved,1997
+STD-Jockers-2005,Antidepressants for the negative symptoms of schizophrenia,Information could not be retrieved,Information could not be retrieved,2005
+STD-Silver-1992,Antidepressants for the negative symptoms of schizophrenia,Information could not be retrieved,Information could not be retrieved,1992
+STD-Spina-1994,Antidepressants for the negative symptoms of schizophrenia,Information could not be retrieved,Information could not be retrieved,1994
+STD-Belanoff-2001,Antiglucocorticoid and related treatments for psychosis,Low risk,"..patients served as their own controls in a random-assignment[comma] double-blind crossover design" (pg 517).,2001
+STD-DeBattista-2006,Antiglucocorticoid and related treatments for psychosis,Low risk,Quote: "randomised 1:1 to 7 days of inpatient treatment in a double-blind[comma] placebo controlled[comma] parallel group design" (pg 1344).,2006
+STD-Flores-2006,Antiglucocorticoid and related treatments for psychosis,Low risk,Quote: "Patients were randomised to either 600mg per day of double-blind mifepristone or placebo for eight days" (pg 630).,2006
+STD-Gallagher-2005,Antiglucocorticoid and related treatments for psychosis,Low risk,"Administration of medication was in a double-blind design" (pg 156). Outcome assessors were blind (source: correspondence).,2005
+STD-Marco-2002,Antiglucocorticoid and related treatments for psychosis,Low risk,Participant/providers: Yes. Quote: "Subjects were randomised to receive in a double-blind manner..." (pg 157). Outcome assessors: Yes. Quote: "Subjects and blinded raters were not able to accurately guess treatment assignment based on side effects." (pg 159).,2002
+STD-Nachshoni-2005,Antiglucocorticoid and related treatments for psychosis,Low risk,Participant/providers: Yes. Quote: "...randomised to receive either DHEA at a fixed dose of 100 mg/day or placebo in double-blind fashion..." (pg 252). Outcome assessors blind (from correspondence).,2005
+STD-Newcomer-1998,Antiglucocorticoid and related treatments for psychosis,Low risk,Quote: "...after 4 days of double-blind[comma] placebo controlled treatment with DEX..." (pg 67).,1998
+STD-Ritsner-2006,Antiglucocorticoid and related treatments for psychosis,Low risk,Participant/providers: participants[comma] providers and key study personnel blinded (source: correspondence). Outcome assessors: yes (from correspondence).,2006
+STD-Ritsner-2010,Antiglucocorticoid and related treatments for psychosis,Low risk,"Double-blind study design" (pg 1352).,2010
+STD-Strous-2003,Antiglucocorticoid and related treatments for psychosis,Low risk,Participant/providers: yes. Quote: "..to receive either DHEA or placebo[comma] each for six weeks in a double-blind manner (administered and monitored by a hospital pharmacist)" (pg 134). Outcome assessors blinded (Source: correspondence).,2003
+STD-Strous-2007,Antiglucocorticoid and related treatments for psychosis,Low risk,Participant/providers: Yes. Quote: "...to receive either DHEA or placebo[comma] each for 12 weeks in a double-blind manner" (pg 97). Outcome assessors blinded (source: correspondence).,2007
+STD-Adler-1993a,Antioxidant treatments for schizophrenia,Low risk,Double-blind.,1993
+STD-Adler-1999,Antioxidant treatments for schizophrenia,Low risk,Double-blind[comma] no further details.,1999
+STD-Akhondzadeh-2005,Antioxidant treatments for schizophrenia,Low risk,Double-blind.,2005
+STD-Amiri-2008,Antioxidant treatments for schizophrenia,Low risk,Identical tablets.,2008
+STD-Berk-2008b,Antioxidant treatments for schizophrenia,Low risk,Double-blind.,2008
+STD-Bodkin-2005,Antioxidant treatments for schizophrenia,Low risk,"drug and placebo in matched capsules".,2005
+STD-Bordbar-2008,Antioxidant treatments for schizophrenia,Low risk,"Identical placebo".,2008
+STD-Brunstein-2005,Antioxidant treatments for schizophrenia,Low risk,Double-blind.,2005
+STD-Dakhale-2005,Antioxidant treatments for schizophrenia,Low risk,Medicines identical in formulation.,2005
+STD-Dickerson-2009,Antioxidant treatments for schizophrenia,Low risk,Double-blind.,2009
+STD-Dorevitch-1997a,Antioxidant treatments for schizophrenia,Low risk,Double-blind.,1997
+STD-Doruk-2008,Antioxidant treatments for schizophrenia,Low risk,Double-blind.,2008
+STD-Farokhnia-2013,Antioxidant treatments for schizophrenia,Low risk,"identical containers".,2013
+STD-Goff-1993,Antioxidant treatments for schizophrenia,Low risk,Identical capsules given.,1993
+STD-Jungerman-1999,Antioxidant treatments for schizophrenia,Low risk,"Identical appearance".,1999
+STD-Lohr-1996,Antioxidant treatments for schizophrenia,Low risk,Double-blind.,1996
+STD-Luo-1997,Antioxidant treatments for schizophrenia,Low risk,Double-blind.,1997
+STD-Ritsner-2010,Antioxidant treatments for schizophrenia,Low risk,"identical capsules".,2010
+STD-Weiser-2012,Antioxidant treatments for schizophrenia,Low risk,Double-blind.,2012
+STD-Zhang-2001a,Antioxidant treatments for schizophrenia,Low risk,Double-blind.,2001
+STD-Zhang-2004,Antioxidant treatments for schizophrenia,Low risk,Double-blind.,2004
+STD-Zhang-2011,Antioxidant treatments for schizophrenia,Low risk,"Identically appearing placebo".,2011
+STD-A-+any-antipsychotic-2011,Antipsychotic combinations for schizophrenia,High risk,Open-label[comma] participants and personnel were not blinded[comma] Assessment by blinded clinical raters[comma] precautions were taken not to reveal treatment allocation to raters.,2011
+STD-A-+any-antipsychotic-2012,Antipsychotic combinations for schizophrenia,High risk,“Choice of medication to join was left to prescriber and patient  and also at their discretion the dose of all drug could be raised or lowered .” “Outcomes were performed by trained assessor masked to allocated treatment.”.,2012
+STD-A-+any-antipsychotic-2015,Antipsychotic combinations for schizophrenia,High risk,“While treatment was open-label[comma] baseline and subsequent assessments were conducted by “independent assessors” blinded to the research status of participants.”.,2015
+STD-A-+pimozide-1985,Antipsychotic combinations for schizophrenia,Low risk,Drug appearance[comma] with respect to powder colour[comma] taste[comma] and volume[comma] was made identical by adding a common gastric aid[comma] SMP.,1985
+STD-A-+reserpine-1957,Antipsychotic combinations for schizophrenia,Low risk,Neither raters nor participants were aware of the nature or quantity of drug given. Participants were given an identical number of capsules regardless of the individual dosage.,1957
+STD-A-+sulpiride-1994,Antipsychotic combinations for schizophrenia,High risk,Open-label study.,1994
+STD-A-+trifluoperazine-1964,Antipsychotic combinations for schizophrenia,Low risk,Placebo capsules and placebo tablets matched the appearance of the capsules and tablets of the two drugs to insure no knowledge of which group was receiving which drug or drugs.,1964
+STD-B-+any-antipsychotic-2013,Antipsychotic combinations for schizophrenia,High risk,“For participants who were assigned to switch to monotherapy[comma] each participant and physician decided together which of the two anti- psychotics to discontinue.”   “The raters were blinded about which group the patients belonged to.”.,2013
+STD-B-+aripiprazole-2008,Antipsychotic combinations for schizophrenia,Unclear Risk,"Double-blind"[comma] no further details reported.,2008
+STD-B-+aripiprazole-2011,Antipsychotic combinations for schizophrenia,Low risk,Aripiprazole and placebo were dispensed in identical-appearing capsules; patients randomise to placebo took the same number of capsules as those assigned to aripiprazole.,2011
+STD-B-+pipotiazine-2002,Antipsychotic combinations for schizophrenia,Unclear Risk,Not stated.,2002
+STD-B-+quet/risp-2009,Antipsychotic combinations for schizophrenia,Unclear Risk,No details provided.,2009
+STD-B-+risperidone-2010,Antipsychotic combinations for schizophrenia,Unclear Risk,"Double-blind"[comma] no further details provided for blinding of participants and personnel[comma] raters were blinded to treatment assignment.,2010
+STD-B-+sulpiride-1996,Antipsychotic combinations for schizophrenia,Unclear Risk,Not described. Unclear if outcome assessment was blinded.,1996
+STD-B-+ziprasidone-2014,Antipsychotic combinations for schizophrenia,Unclear Risk,“None of the research personnel[comma] who enrolled[comma] assessed[comma] and treated the patients[comma] were aware of the patient assignments until the study was concluded. Ziprasidone and placebo were dispensed in identical-appearing capsules; patients randomized to placebo took the same number of capsules as those assigned to ziprasidone.”.,2014
+STD-C-+amisulpride-2008,Antipsychotic combinations for schizophrenia,Unclear Risk,No details provided.,2008
+STD-C-+arip/pali-2014,Antipsychotic combinations for schizophrenia,Low risk,“Double blinding was done by inserting aripiprazole or paliperidone or placebo tablet in a non-transparent capsule.” “It was handed over along with identical plastic containers filled with the study drugs (45 capsules each of aripiprazole or paliperidone or placebo) to a third person not directly involved in this study.” “The patient as well as the investigator was unaware of the treatment being administered.”.,2014
+STD-C-+aripiprazole-2007,Antipsychotic combinations for schizophrenia,Unclear Risk,Not reported.,2007
+STD-C-+aripiprazole-2007b,Antipsychotic combinations for schizophrenia,Unclear Risk,No details provided.,2007
+STD-C-+aripiprazole-2008,Antipsychotic combinations for schizophrenia,Low risk,All the participants and investigators remained blind throughout the study[comma] and the data analyses were also performed by investigators blind to the identity of the participants.,2008
+STD-C-+aripiprazole-2008b,Antipsychotic combinations for schizophrenia,Unclear Risk,Not stated.,2008
+STD-C-+aripiprazole-2009,Antipsychotic combinations for schizophrenia,Unclear Risk,Single-blind[comma] untested.,2009
+STD-C-+aripiprazole-2012,Antipsychotic combinations for schizophrenia,Unclear Risk,"Patients were evaluated by the same investigator. This investigator was from a different hospital and was not involved in patient care. In addition[comma] the investigator was blind to drug regimens and the drug concentrations. However[comma] he had access to the nursing charts." No details as to blindness of participants and personnel other than "double-blind".,2012
+STD-C-+aripiprazole-2013,Antipsychotic combinations for schizophrenia,Unclear Risk,“Double blind” No other information provided.,2013
+STD-C-+aripiprazole-2013b,Antipsychotic combinations for schizophrenia,Unclear Risk,“Double-blind”. No further details.,2013
+STD-C-+aripiprazole-2014,Antipsychotic combinations for schizophrenia,Low risk,Double blind. Placebo[comma] which have the same colour[comma] shape and taste with aripiprazole.,2014
+STD-C-+aripiprazole-2015,Antipsychotic combinations for schizophrenia,Low risk,"Double-blind”  "Placebo and aripiprazole tablets were physically indistinguishable.",2015
+STD-C-+aripiprazole-2015b,Antipsychotic combinations for schizophrenia,Low risk,“placebo tablets that were identical to the aripiprazole tablets...” AND “The investigators[comma] participants and their carers were masked to the medications throughout the study...”.,2015
+STD-C-+aripiprazole-2015c,Antipsychotic combinations for schizophrenia,High risk,“Open-label trial”.,2015
+STD-C-+aripiprazole-2016,Antipsychotic combinations for schizophrenia,High risk,Open-label trial.,2014
+STD-C-+clozapine-2001,Antipsychotic combinations for schizophrenia,Unclear Risk,No information provided.,2001
+STD-C-+clozapine-2013,Antipsychotic combinations for schizophrenia,High risk,Not specified.,2013
+STD-C-+CPZ-1973,Antipsychotic combinations for schizophrenia,Unclear Risk,At both centres[comma] all patients involved in the study had their dosage regulated by the usual clinical staff. The research psychiatrist at each centre scrupulously avoided influencing the amount or frequency of administration of antipsychotic medication used during the course of the study[comma] except to specify that fluphenazine enanthate dosage should not exceed 75 mg in a single dose.,1973
+STD-C-+CPZ-1989,Antipsychotic combinations for schizophrenia,Unclear Risk,Weekly BPRS by psychiatrists blind to medication over 8 weeks. No further details.,1989
+STD-C-+CPZ-1999,Antipsychotic combinations for schizophrenia,Unclear Risk,Not stated.,1999
+STD-C-+fluphen-dec-2009,Antipsychotic combinations for schizophrenia,Low risk,"Double-blind". "The placebo had been arranged in the shape of comparable vials[comma] like the target drug". "The evaluators[comma] as well[comma] were unaware concerning the partition and the type of medications arranged for each group.",2009
+STD-C-+haloperidol-2006,Antipsychotic combinations for schizophrenia,Unclear Risk,"Double-blind" no further details reported.,2006
+STD-C-+haloperidol-2010,Antipsychotic combinations for schizophrenia,Unclear Risk,Double-blind[comma] no further details.,2010
+STD-C-+levomepromazine 2004,Antipsychotic combinations for schizophrenia,High risk,Open-label trial.,2004
+STD-C-+olan/risp-2014,Antipsychotic combinations for schizophrenia,High risk,Rater-blinded. Participants where not blinded to the intervention.,2014
+STD-C-+olanzapine-2012,Antipsychotic combinations for schizophrenia,High risk,Participants and personnel were not blinded. Blind outcome assessment "Rater blinded".,2012
+STD-C-+olanzapine-2012b,Antipsychotic combinations for schizophrenia,Low risk,Double blind: “Olanzapine and placebo were dispensed in similar gelatin capsules that were formulated for this trial.” “The rater was blind to the study medication (i.e.[comma] either olanzapine or placebo) until the completion of the trial in each case.”.,2012
+STD-C-+perphenazine-1976,Antipsychotic combinations for schizophrenia,Low risk,Identical tablets were used for active drugs and placebo.,1976
+STD-C-+pimozide-2011,Antipsychotic combinations for schizophrenia,Unclear Risk,Double-blind[comma] "Given that the increased risk of extrapyramidal symptoms associated with pimozide threatened the integrity of the blind[comma] assignment of assessments ensured that the rating of the ESRS was carried out by personnel different from those performing the PANSS and functional competence ratings.",2011
+STD-C-+pimozide-2013,Antipsychotic combinations for schizophrenia,Low risk,Double-blind: “Patients were randomized to identical looking pimozide or placebo capsules by the research pharmacist who was not involved with the subjects.”.,2006
+STD-C-+pipotiazine-2000,Antipsychotic combinations for schizophrenia,Unclear Risk,Not stated.,2000
+STD-C-+risperidone-2001,Antipsychotic combinations for schizophrenia,Unclear Risk,Not stated.,2001
+STD-C-+risperidone-2001b,Antipsychotic combinations for schizophrenia,Unclear Risk,No information provided.,2001
+STD-C-+risperidone-2001c,Antipsychotic combinations for schizophrenia,Unclear Risk,Not stated.,2001
+STD-C-+risperidone-2005,Antipsychotic combinations for schizophrenia,Low risk,Identical pills containing either risperidone or placebo were added to clozapine.,2005
+STD-C-+risperidone-2005b,Antipsychotic combinations for schizophrenia,Low risk,The raters[comma] treating psychiatrist[comma] and patient remained blinded throughout the study.,2005
+STD-C-+risperidone-2006,Antipsychotic combinations for schizophrenia,Low risk,Throughout the study[comma] the patients[comma] sight investigators[comma] and raters remained blinded.,2006
+STD-C-+risperidone 2007,Antipsychotic combinations for schizophrenia,Low risk,An independent research pharmacy prepared matching capsules that contained either 1 mg risperidone or placebo.,2007
+STD-C-+sertindole-2006,Antipsychotic combinations for schizophrenia,Low risk,Participants[comma] personnel and assessors were blinded[comma] "Blinding was concealed until the end of the 12-week visit[comma] and disclosure of the blinding was first done after reporting all PANSS values to the pharmacy to ensure that the primary outcome data could not be changed after unblinding". Blinded raters performed all clinical research assessments.,2006
+STD-C-+sulpiride-1997,Antipsychotic combinations for schizophrenia,Low risk,The placebo tablets were made to appear identical to the sulpiride tablets by the manufacturer.,1997
+STD-C-+sulpiride-1999,Antipsychotic combinations for schizophrenia,Unclear Risk,Not stated.,1999
+STD-C-+sulpiride-1999b,Antipsychotic combinations for schizophrenia,Unclear Risk,Double-blind.,1999
+STD-C-+sulpiride-1999c,Antipsychotic combinations for schizophrenia,Unclear Risk,No information provided.,1999
+STD-C-+sulpiride-2003,Antipsychotic combinations for schizophrenia,Unclear Risk,Not stated.,2003
+STD-C-+sulpiride-2004,Antipsychotic combinations for schizophrenia,High risk,Limitations for the study include the absence of a double-blind[comma] placebo-controlled study design[comma] and non-blind rating.,2004
+STD-C-+sulpiride-2006,Antipsychotic combinations for schizophrenia,Unclear Risk,Not stated.,2006
+STD-C-+sulpiride-2013,Antipsychotic combinations for schizophrenia,Unclear Risk,“Double blind”. No other information provided.,2013
+STD-Huang-2007,Antipsychotic drug treatment for elderly people with late-onset schizophrenia,High risk,There was no blinding.,2007
+STD-Engelhardt-1973,Antipsychotic medication for childhood-onset schizophrenia,Information could not be retrieved,Information could not be retrieved,1973
+STD-Faretra-1970,Antipsychotic medication for childhood-onset schizophrenia,Information could not be retrieved,Information could not be retrieved,1970
+STD-Kumra-1996,Antipsychotic medication for childhood-onset schizophrenia,Information could not be retrieved,Information could not be retrieved,1996
+STD-Shaw-2006,Antipsychotic medication for childhood-onset schizophrenia,Information could not be retrieved,Information could not be retrieved,2006
+STD-Xiong-2004,Antipsychotic medication for childhood-onset schizophrenia,Information could not be retrieved,Information could not be retrieved,2004
+STD-Yao-2003,Antipsychotic medication for childhood-onset schizophrenia,Information could not be retrieved,Information could not be retrieved,2003
+STD-Cole-1964,Antipsychotic medication for early episode schizophrenia,Unclear Risk,Double blind[comma] untested.,1964
+STD-May-1976,Antipsychotic medication for early episode schizophrenia,High risk,Open study.,1965
+STD-Mosher-1995,Antipsychotic medication for early episode schizophrenia,High risk,Treated at different sites.,1995
+STD-Rappaport-1978,Antipsychotic medication for early episode schizophrenia,Low risk,Reported that "staff remain blind to whether the patient was receiving medication or placebo".,1978
+STD-Simon-1965,Antipsychotic medication for early episode schizophrenia,Unclear Risk,No details.,1959
+STD-Harvey/Jeste-2003,Antipsychotic medication for elderly people with schizophrenia,Information could not be retrieved,Information could not be retrieved,2003
+STD-Phanjoo-1990,Antipsychotic medication for elderly people with schizophrenia,Information could not be retrieved,Information could not be retrieved,1990
+STD-Tollefson-1997,Antipsychotic medication for elderly people with schizophrenia,Information could not be retrieved,Information could not be retrieved,1997
+STD-Bai-2003,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,Low risk,"double-blind" "A placebo with an identical appearance to the risperidone dose was prescribed for the placebo group using the same dose schedule.",2003
+STD-Bai-2005,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,High risk,"single-blind and controlled study".,2005
+STD-Caroff-2011,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,Low risk,"...double-blind conditions..." "Identical-appearing capsules contained olanzapine (7.5 mg)[comma] quetiapine (200 mg)[comma] risperidone (1.5 mg)[comma] perphenazine (8 mg)[comma] or ziprasidone (40 mg).",2011
+STD-Chan-2010,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,High risk,"...primary care physicians and patients were not blinded.",2010
+STD-Chouinard-1995,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,Low risk,"identical tablets".,1995
+STD-Cookson-1987,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,Unclear Risk,"double blind"[comma] no further details.,1987
+STD-Emsley-2004,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,High risk,"investigator-blinded"[comma] further blinding details not reported.,2004
+STD-Glazer-1990a,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,Low risk,"double blind" "Medication was supplied in identical-appearing red capsules containing 25 mg and 5 mg[comma] respectively[comma] of molindone and haloperidol".,1990
+STD-Kane-1983,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,Unclear Risk,"double-blind". Details not reported.,1983
+STD-Kazamatsuri-1972,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,Unclear Risk,Blinding of participants not reported. Ward nurses were blinded.,1972
+STD-Kazamatsuri-1973,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,High risk,Blinding of participants and personnel not reported.,1973
+STD-Lublin-1991,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,High risk,Blinding of participants and personnel not reported.,1991
+STD-Tamminga-1994,Antipsychotic reduction and or cessation and antipsychotics as specific treatments for tardive dyskinesia,Unclear Risk,"Staff[comma] patients[comma] and all raters were blind to the drug group; one non rating physician and one nurse were non blind to dispense medication and monitor safety"; no further details were provided.,1994
+STD-Casey-2003,Antipsychotic switching for people with schizophrenia who have neuroleptic-induced weight or metabolic problems,Low risk,Quote: "Open label".  Comment: lack of blinding is less prone to cause bias for outcomes like weight. Lack of blinding may introduce bias for subjective outcomes like adverse events.,2003
+STD-Cookson-1986,Antipsychotic switching for people with schizophrenia who have neuroleptic-induced weight or metabolic problems,Low risk,Quote:" double blind"  Comment: the methods used if any to ensure participants and trialists were blind to the interventions used are not described. We feel as the primary outcome is objective (weight) inadequate blinding is unlikely to cause bias.,1986
+STD-Eli-Lilly-2004,Antipsychotic switching for people with schizophrenia who have neuroleptic-induced weight or metabolic problems,Low risk,Quote: "double blind". Comment: the methods used if any to ensure participants and trialists were blind to the interventions used are not reported[comma] but both the intervention medication and the control were in capsule forms. We feel inadequate blinding is not likely to introduce bias for objective outcomes like weight BMI and metabolic syndrome.,2004
+STD-Newcomer-2008,Antipsychotic switching for people with schizophrenia who have neuroleptic-induced weight or metabolic problems,Low risk,Quote:"double blind study". Comment: methods taken to ensure blindness not reported. For outcomes like weight[comma] BMI[comma] waist circumference and metabolic syndrome[comma] inadequate blinding is unlikely to cause bias.,2007
+STD-Andrezina-2006,Aripiprazole (intramuscular) for psychosis-induced aggression or agitation (rapid tranquillisation),Unclear Risk,Described as double-blind[comma] no further details given.,2006
+STD-Bristol-Myers-2005,Aripiprazole (intramuscular) for psychosis-induced aggression or agitation (rapid tranquillisation),Unclear Risk,No blinding was used during the preparation of injections; in most cases the same person prepared and administered the drug. Study investigators conducting the assessment were blinded to treatment.,2005
+STD-Kittipeerachon-2016,Aripiprazole (intramuscular) for psychosis-induced aggression or agitation (rapid tranquillisation),Low risk,"The patients and the physician investigator were blinded to treatment assignment as long as the 24-hour assessment was not completed. The assessment was performed by the investigator and the nurse who administered the injection was not involved in the assessment process of the study." (p.232).,2016
+STD-Adson-2003,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2003
+STD-Carson-2000-a,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2000
+STD-Carson-2002-b,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2002
+STD-Csernansky-2003,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2003
+STD-Daniel-2000,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2000
+STD-Daniel-2004,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2004
+STD-Kane-2003,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2003
+STD-Kern-2001,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2001
+STD-Kujawa-2002,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2002
+STD-Marcus-2005,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2005
+STD-McQuade-2003,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2003
+STD-Oren-2005,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2005
+STD-Potkin-2003,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2003
+STD-Riera-2004,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2004
+STD-Stock-2005,Aripiprazole for schizophrenia,Information could not be retrieved,Information could not be retrieved,2005
+STD-An-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Bai-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Unclear.,2007
+STD-Bai-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Ban-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Chan-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] identical capsules. Whether blinding was successful has not been examined[comma] but both compounds differ quite substantially in adverse effects. This can be a problem for blinding.,2007
+STD-Chang-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Chen-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Chen-2007a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Chen-2008a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Chen-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,High risk,Open label.,2009
+STD-Chen-2009a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Chen-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Low riskUnclear riskHigh risk.,2010
+STD-Chen-2010a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Cheng-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-CuiMeng-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Dai-2005,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2005
+STD-Dai-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Deng-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Deng-2008a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Ding-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Du-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Fan-2005,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2005
+STD-Fan-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Feng-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Fleischhacker-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] no further details. Whether blinding was successful has not been examined[comma] but both compounds differ quite substantially in adverse effects. This can be a problem for blinding.,2005
+STD-Fu-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Ge-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Ge-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Guo-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double.,2006
+STD-Han-2005,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Han-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Han-2007a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Hu-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Huang-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Ji-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Jiang-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Jie-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Kane-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,No details.,2009
+STD-Kern-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,High risk,Open label.,2006
+STD-Kerwin-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,High risk,Open label.,2007
+STD-Kinon-2004,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double. No further details available.,2004
+STD-Kuang-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006[comma] 2006
+STD-Li-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Li-2006a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Li-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Li-2007a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Li-2007b,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Li-2007c,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Li-2007d,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Li-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Li-2009a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Li-2009b,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Li-X-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Lian-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Liang-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Liu-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Liu-2006a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Liu-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Liu-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Liu-2008a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Liu-2008b,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Liu-2008c,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Liu-2008d,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Liu-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Liu-2009a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Liu-2009b,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Liu-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Lou-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Luo-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Luo-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Lv-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Ma-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Ma-2009a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Mai-2005,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2005
+STD-Mao-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-McQuade-2004,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] no further details. Whether blinding was successful has not been examined[comma] but both compounds differ quite substantially in adverse effects. This can be a problem for blinding.,2004
+STD-Mu-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Mu-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Pan-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Peng-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Peng-2007a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Potkin-2003,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double[comma] identical capsules. Whether blinding was successful has not been examined[comma] but both compounds differ quite substantially in adverse effects. This can be a problem for blinding.,2003
+STD-Pu-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Qian-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Qin-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Qu-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Shan-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Shuai-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Song-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Song-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Song-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Su-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Su-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Sun-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Sun-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Sun-2009a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Tandon-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,High risk,Open label.,2006
+STD-Tang-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Tang-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Tang-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Tang-2010a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Tao-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Tong-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Tu-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Wang-2005,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2005
+STD-Wang-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Wang-2006a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Wang-2006b,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Wang-2006c,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Wang-2006d,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Wang-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Wang-2007a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Wang-2007d,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Wang-2007e,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Wang-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Wang-2008c,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Wang-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Wei-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Wei-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Wei-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Wen-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Wen-2009a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Wlodzmierz-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,High risk,Open label.,2006
+STD-Wolf-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,High risk,Open label.,2007
+STD-Wu-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Xiao-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Xie-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Xie-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Xu-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Xu-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Low risk,Double.,2010
+STD-Yan-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Double.,2007
+STD-Yan-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Yan-2008a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Yan-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Yang-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not stated.,2006
+STD-Yang-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Yang-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Yang-2008a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Yang-2008b,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Yang-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Ye-2005,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2005
+STD-Ye-2005a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2005
+STD-Yi-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Yu-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Yu-2006a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Yu-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Yu-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Yu-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Yu-ZG-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Zhang-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Zhang-2006a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Zhang-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Zhang-2007a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Zhang-2007b,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Zhang-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Zhang-2008a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Zhang-2008b,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Zhang-2009,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Zhang-2009a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Single[comma] if the blinding was performed well was unknown.,2009
+STD-Zhang-2009b,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2009
+STD-Zhang-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Zhang-2010a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Zhao-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not described.,2006
+STD-Zhao-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Zhi-2005,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2005
+STD-Zhou-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Zhou-2007a,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Zhou-2007b,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2007
+STD-Zhou-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Zhu-2005,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Single blind[comma] but whether the blindness was performed well was unclear.,2005
+STD-Zhu-2008,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2008
+STD-Zhu-2010,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2010
+STD-Zimbroff-2007,Aripiprazole versus other atypical antipsychotics for schizophrenia,Low risk,Double[comma] double dummy administration. Whether blinding was successful has not been examined[comma] but both compounds have similar adverse effects.,2007
+STD-Zou-2006,Aripiprazole versus other atypical antipsychotics for schizophrenia,Unclear Risk,Not reported.,2006
+STD-Adson-2003,Aripiprazole versus placebo for schizophrenia,Unclear Risk,Double blind[comma] no further details.,2003
+STD-Carson-2000-a,Aripiprazole versus placebo for schizophrenia,Unclear Risk,Double blind[comma] method of blinding not described.,2000
+STD-Carson-2002-b,Aripiprazole versus placebo for schizophrenia,Unclear Risk,Double[comma] no further details.,2002
+STD-Csernansky-2003,Aripiprazole versus placebo for schizophrenia,Unclear Risk,Double[comma] no further details.,2003
+STD-Daniel-2000,Aripiprazole versus placebo for schizophrenia,Unclear Risk,Unclear.,2000
+STD-Daniel-2004,Aripiprazole versus placebo for schizophrenia,Unclear Risk,Double[comma] no further details.,2004
+STD-Marcus-2005,Aripiprazole versus placebo for schizophrenia,Unclear Risk,Double[comma] no further details.,2005
+STD-Oren-2005,Aripiprazole versus placebo for schizophrenia,Unclear Risk,Double[comma] no further details.,2005
+STD-Potkin-2003,Aripiprazole versus placebo for schizophrenia,Unclear Risk,Double[comma] no further details.,2003
+STD-Carson-2000,Aripiprazole versus typical antipsychotic drugs for schizophrenia,Information could not be retrieved,Information could not be retrieved,2000
+STD-Csernansky-2003,Aripiprazole versus typical antipsychotic drugs for schizophrenia,Information could not be retrieved,Information could not be retrieved,2003
+STD-Daniel-2000,Aripiprazole versus typical antipsychotic drugs for schizophrenia,Information could not be retrieved,Information could not be retrieved,2000
+STD-Daniel-2004,Aripiprazole versus typical antipsychotic drugs for schizophrenia,Information could not be retrieved,Information could not be retrieved,2004
+STD-Kane-2003,Aripiprazole versus typical antipsychotic drugs for schizophrenia,Information could not be retrieved,Information could not be retrieved,2003
+STD-Kujawa-2002,Aripiprazole versus typical antipsychotic drugs for schizophrenia,Information could not be retrieved,Information could not be retrieved,2002
+STD-McCue-2006,Aripiprazole versus typical antipsychotic drugs for schizophrenia,Information could not be retrieved,Information could not be retrieved,2006
+STD-Oren-2005,Aripiprazole versus typical antipsychotic drugs for schizophrenia,Information could not be retrieved,Information could not be retrieved,2005
+STD-Wang-2005,Aripiprazole versus typical antipsychotic drugs for schizophrenia,Information could not be retrieved,Information could not be retrieved,2005
+STD-Green-1987,Art therapy for schizophrenia or schizophrenia-like illnesses,Information could not be retrieved,Information could not be retrieved,1987
+STD-Richardson-2002,Art therapy for schizophrenia or schizophrenia-like illnesses,Information could not be retrieved,Information could not be retrieved,2000
+STD-Chapel-2009,Asenapine versus placebo for schizophrenia,Unclear Risk,"Double-blind" - but no further description provided.,2009
+STD-Kane-2010,Asenapine versus placebo for schizophrenia,Unclear Risk,"Double-blind" - but no further description provided.,2010
+STD-Kane-2011,Asenapine versus placebo for schizophrenia,Low risk,"Double-blind". "asenapine and placebo sublingual tablets were identical in appearance". "neither patients nor sites were aware of the tablet identity". Probably done.,2011
+STD-NCT00151424,Asenapine versus placebo for schizophrenia,Unclear Risk,Double-blind - no further description.,2005
+STD-NCT00156117,Asenapine versus placebo for schizophrenia,Unclear Risk,"Double-Blind (subject[comma] caregiver[comma] investigator[comma] outcomes assessor)". No further description.,2005
+STD-Potkin-2007,Asenapine versus placebo for schizophrenia,Low risk,"Double-blind" "In this double-dummy design[comma] asenapine-treated patients also received oral placebo BID...and patients in the placebo-control group received oral and sublingual placebo BID". Probably done.,2007
+STD-Alfredsson-1984,Atypical antipsychotics for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1984
+STD-Emsley-2003,Atypical antipsychotics for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,2003
+STD-Jasovic-1997,Atypical antipsychotics for people with both schizophrenia and depression,Information could not be retrieved,Information could not be retrieved,1997
+STD-Aranda-2007,Atypical antipsychotics for psychosis in adolescents,High risk,This was an open-label study.,2007
+STD-DelBello-2008,Atypical antipsychotics for psychosis in adolescents,High risk,This was an open-label trial.,2006
+STD-Findling-2008,Atypical antipsychotics for psychosis in adolescents,Low risk,This was a double-blind placebo-controlled trial.,2008
+STD-Haas-2009,Atypical antipsychotics for psychosis in adolescents,Low risk,This was a double-blind study.,2009
+STD-Huo-2007,Atypical antipsychotics for psychosis in adolescents,Unclear Risk,Not described in the report.,2007
+STD-Jensen-2008,Atypical antipsychotics for psychosis in adolescents,High risk,This was an open-label study.,2007
+STD-Kryzhanovskaya-2009,Atypical antipsychotics for psychosis in adolescents,Low risk,There was a double-blind phase followed by an open-label phase.,2009
+STD-Kumra-1996,Atypical antipsychotics for psychosis in adolescents,Low risk,Raters[comma] treating physicians and nurses were blind to the study status.,1996
+STD-Kumra-2008,Atypical antipsychotics for psychosis in adolescents,Low risk,This was a double-blind RCT[comma] but the details of blinding and how it was maintained had not been described in the report.,2008
+STD-Sikich-2004,Atypical antipsychotics for psychosis in adolescents,Low risk,This was a double-blind study[comma] but the details of how blinding was maintained were not reported.,2004
+STD-Sikich-2008,Atypical antipsychotics for psychosis in adolescents,Low risk,This was a double-blind study[comma] and blinding was maintained even after discontinuation of one of the arms (olanzapine group) of the study for ethical reasons.,2008
+STD-Swadi-2010,Atypical antipsychotics for psychosis in adolescents,High risk,Open-label study with blind midpoint and end point assessments.,2010
+STD-Xiong-2004,Atypical antipsychotics for psychosis in adolescents,High risk,Blinding not clear.,2004
+STD-Mahal-1976,Ayurvedic medicine for schizophrenia,Information could not be retrieved,Information could not be retrieved,1976
+STD-Ramu-1992,Ayurvedic medicine for schizophrenia,Information could not be retrieved,Information could not be retrieved,1992
+STD-Ramu-1999,Ayurvedic medicine for schizophrenia,Information could not be retrieved,Information could not be retrieved,1999
